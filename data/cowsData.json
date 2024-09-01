@@ -1,0 +1,116 @@
+{
+  "cows": [
+    {
+      "entryDate": "2024-08-29",
+      "breed": "holshin",
+      "cow_number": 3,
+      "milk_production": [
+        {
+          "date": "2024-08-29",
+          "amount": "200",
+          "quality": "Good",
+          "id": 1
+        }
+      ],
+      "calves": [
+        {
+          "name": "New Calf",
+          "Date": "2024-12-2",
+          "gender": "Female",
+          "id": 1
+        }
+      ],
+      "health_checks": [
+        {
+          "date": "2024-08-22",
+          "type": "Che",
+          "result": "Healthy",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "cowNumber": "4",
+      "entryDate": "2024-08-29",
+      "breed": "Angus",
+      "cow_number": 4,
+      "milk_production": [
+        {
+          "date": "2024-08-29",
+          "amount": 20.5,
+          "quality": "Good",
+          "id": 2
+        }
+      ],
+      "calves": [
+        {
+          "name": "New Calf",
+          "Date": "2024-12-2",
+          "gender": "Female",
+          "id": 2
+        }
+      ],
+      "health_checks": [
+        {
+          "date": "2024-08-30",
+          "type": "Vaccination",
+          "result": "Pending",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "cow_number": 5,
+      "name": "Bessie",
+      "breed": "Holstein",
+      "age": 5,
+      "calves": [
+        {
+          "name": "New Calf",
+          "Date": "2024-12-2",
+          "gender": "Female",
+          "id": 3
+        }
+      ],
+      "health_checks": [
+        {
+          "date": "2024-08-22",
+          "type": "Che",
+          "result": "Healthy",
+          "id": 1
+        }
+      ],
+      "milk_production": [
+        {
+          "date": "2024-08-29",
+          "amount": "200",
+          "quality": "Good",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "cow_number": 7,
+      "name": "Bessie",
+      "breed": "Holstein",
+      "age": 5,
+      "calves": [
+        {
+          "name": "New Calf",
+          "Date": "2024-12-2",
+          "gender": "Female",
+          "id": 4
+        }
+      ],
+      "health_checks": [
+        {
+          "date": "2024-08-22",
+          "type": "Che",
+          "result": "Healthy",
+          "id": 1
+        }
+      ],
+      "milk_production": []
+    }
+  ]
+}
